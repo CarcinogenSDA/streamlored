@@ -40,5 +40,6 @@ htmlcov/
 # OS
 .DS_Store
 Thumbs.db
-docs/carcinogen_games_overview.md
 data/knowledge_base.json
+docs/carcinogen/*
+data/splits/*
