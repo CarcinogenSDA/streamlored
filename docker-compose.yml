@@ -1,0 +1,32 @@
+services:
+  streamlored:
+    build: .
+    stdin_open: true
+    tty: true
+    environment:
+      - TWITCH_BOT_NICK=${TWITCH_BOT_NICK}
+      - TWITCH_OAUTH_TOKEN=${TWITCH_OAUTH_TOKEN}
+      - TWITCH_CHANNEL=${TWITCH_CHANNEL}
+      - TWITCH_CLIENT_ID=${TWITCH_CLIENT_ID}
+      - TWITCH_CLIENT_SECRET=${TWITCH_CLIENT_SECRET}
+      - OLLAMA_HOST=${OLLAMA_HOST:-host.docker.internal}
+      - OLLAMA_PORT=${OLLAMA_PORT:-11434}
+      - OLLAMA_MODEL=${OLLAMA_MODEL:-llama3.2}
+      - OLLAMA_EMBED_MODEL=${OLLAMA_EMBED_MODEL:-nomic-embed-text}
+      - OLLAMA_VISION_MODEL=${OLLAMA_VISION_MODEL:-llava}
+      - BOT_PREFIX=${BOT_PREFIX:-!}
+      - OBS_HOST=${OBS_HOST:-localhost}
+      - OBS_PORT=${OBS_PORT:-4455}
+      - OBS_PASSWORD=${OBS_PASSWORD:-}
+      - OBS_ENABLED=${OBS_ENABLED:-false}
+      - KB_PATH=${KB_PATH:-/app/data/knowledge_base.json}
+      - KB_ENABLED=${KB_ENABLED:-true}
+      - LIVESPLIT_ENABLED=${LIVESPLIT_ENABLED:-false}
+      - LIVESPLIT_HOST=${LIVESPLIT_HOST:-host.docker.internal}
+      - LIVESPLIT_PORT=${LIVESPLIT_PORT:-16834}
+      - RUN_MODE=${RUN_MODE:-bot}
+    volumes:
+      - ./src:/app/src
+      - ./data:/app/data
+      - ./docs:/app/docs
+    restart: unless-stopped
