@@ -1,3 +1,7 @@
+# Which Resident Evil games does Carci play on stream?
+
+RE1, RE2, RE3: Nemesis, Code Veronica, RE0, RE1 Remake, RE2 Remake, RE3 Remake, RE7, Outbreak, Survivor, Dead Aim, Umbrella Chronicles, Darkside Chronicles. My baseline long term goal is to do No Damage runs of every Resident Evil game ever released for a major console. Except for "Operation Raccoon City" and "Umbrella Corps". Those games are extreme garbage and probably only good for a deathless run.
+
 # Resident Evil Series Overview
 
 Resident Evil (known as Biohazard in Japan) is a survival horror video game franchise created by Capcom. The series debuted in 1996 with the original Resident Evil for PlayStation, directed by Shinji Mikami.

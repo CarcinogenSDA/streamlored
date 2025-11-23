@@ -1,6 +1,6 @@
 # Silent Hill – Team Silent Era (SH1–4)
 
-## What Defines Team Silent
+## What Defines a Team Silent Silent Hill Game?
 
 Team Silent was Konami's internal development group responsible for Silent Hill 1 through 4. Their games are characterized by:
 
@@ -43,7 +43,7 @@ Konami still owns Silent Hill but has historically been reluctant to develop it 
 Team Silent's games worked because of a specific creative vision. Recreating that is harder than recreating RE's gameplay loop. You can modernize tank controls, but can you modernize "oppressive psychological dread"?
 
 ### The SH2 Remake Situation
-Bloober Team is developing a Silent Hill 2 remake. Fan reactions are mixed – hope that it'll be good, fear that it'll miss what made the original special. The original is so beloved that anything less than perfect will be criticized heavily.
+Bloober Team developed a Silent Hill 2 remake. Fan reactions are mixed – hope that it'll be good, fear that it'll miss what made the original special. The original is so beloved that anything less than perfect will be criticized heavily.
 
 ### Pyramid Head Problem
 He's become a mascot, but using him outside SH2's context undermines what made him effective. Any remake or new game has to navigate fan expectations around iconic elements that only worked in specific narrative contexts.

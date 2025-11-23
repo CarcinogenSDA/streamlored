@@ -12,7 +12,7 @@ The biggest factor. If a game sold millions of copies and people still talk abou
 
 ### Safe Investment
 
-Remakes are less risky than new IPs. The story exists. The design exists. The audience exists. You're not gambling on whether people will care – you already know they do.
+Remakes are less risky than new IPs. The story exists, and can be adapted to modern game design. The audience exists. You're not gambling on whether people will care – you already know they do.
 
 ### Tech Showcase
 

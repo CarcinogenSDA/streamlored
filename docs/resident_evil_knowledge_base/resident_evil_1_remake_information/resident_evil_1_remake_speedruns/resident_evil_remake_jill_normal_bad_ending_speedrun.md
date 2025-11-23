@@ -1,18 +1,18 @@
-# Resident Evil HD Remaster - Jill Bad Ending (any%) Speedrun Guide
+# Resident Evil HD Remaster - Jill Normal Mode Bad Ending (any%) Speedrun Guide
 
 ## Overview
 
-This guide covers the Jill Bad Ending (any%) route for Resident Evil HD Remaster on Steam. The bad ending requires: not rescuing Chris from his cell, Barry dying earlier in the game, and the mansion not being destroyed.
+This guide covers the Jill Normal Mode Bad Ending (any%) route for Resident Evil HD Remaster on Steam. This run is played on "Out of the Box" game settings. The bad ending requires: not rescuing Chris from his cell, Barry dying earlier in the game, and the mansion not being destroyed.
 
 **Category**: Any% Bad Ending
 **Character**: Jill Valentine
 **Platform**: Steam
 
-**Key Route Differences from Best Ending:**
-- Skip saving Richard (let him die to Yawn)
-- Say NO to Barry in caves (causes his death)
-- Don't rescue Chris from lab cell
-- More aggressive/optimized routing with skips
+**Key Route Characteristics:**
+- Say NO to Barry in caves (causes his death, and you pick up Barry's .44 Magnum)
+- Don't rescue Chris from lab cell (avoid picking up MO Discs)
+- More aggressive/optimized routing with a very direct route toward the end.
+- No usage of Rocket Launcher or Samurai Edge.
 
 ---
 
@@ -36,15 +36,15 @@ Grab the Wooden Emblem from above the fireplace in dining room.
 
 ### Main Hall Stairskate
 
-After cutscenes, execute stairskate on main hall stairs going up then back down. Input: hold run + aim while approaching stairs.
+After cutscenes, execute stairskate on main hall stairs going up then back down. Input: hold "up" on D-pad + mash run while approaching stairs. Mash past the following cutscene to get the Lockpick (Jill-Only Item)
 
 ### to Kenneth Hall
 
-Head west through double doors. Find Kenneth's corpse, search it for video tape. Table with bird cage has Handgun ammo. Collect the two herbs.
+Head past dining room into Kenneth Hallway.
 
 ### to West Stairwell
 
-Head upstairs through the door. Corpse immediately ahead - ignore for now.
+Head to the door next to Kenneth
 
 ### West Stairwell Stairskate
 
@@ -52,15 +52,15 @@ Stairskate up the west stairwell.
 
 ### !!HALLWAY HUMPIST!!
 
-Zombie waiting to ambush off-frame near the mirror. Face the camera by the mirror and shoot until he drops once, then rush past. Lure him into a lunge and rush past his shoulder to save ammo.
+Zombie waiting to ambush off-frame near the mirror. Pick up the Golden Arrow, then bait a lunge. If he doesn't lunge, let him walk to you for a couple of steps then run around him since his lunge is probably on a timed delay. Reset if bitten.
 
 ### to Main Hall
 
-Grab the Golden Arrow and Handgun magazine. Head to the balcony through the right-hand door. Zombie at far end - evade him. Grab the dagger nearby. Push the Blue Gem statue off the balcony edge to break it below.
+Go through 2F Dining Room through the double doors to the Main Hall.
 
 ### to Graveyard
 
-Head through double doors to main lobby, up short stairs, through door to graveyard.
+Go down the short stairs, through the door to graveyard.
 
 ### !!FUCKFACE FREDDY!!
 
