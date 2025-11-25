@@ -33,7 +33,7 @@ This guide covers the Jill Normal Mode Bad Ending (any%) route for Resident Evil
 
 ---
 
-## Opening
+## Mansion 1
 
 ### Unequip Handgun
 
@@ -45,11 +45,7 @@ Mash through Wesker's dialogue in the main hall.
 
 ### Cold Feet (Emblem)
 
-Grab the Wooden Emblem from above the fireplace in dining room.
-
----
-
-## Mansion 1F - Initial
+Check the double-doors again. This will initiate a cutscene where Barry asks Jill if she has "cold feet". Skip it. Now run to Barry and skip the "blood" cutscene. Do not pick up the Emblem, as this makes it more difficult to move the menu cursor quickly for most times you have to use items during Mansion 1. Now pass by the door where you would normally go through to find the zombie eating Kenneth, and try to go back to the main hall. An alternate cutscene will play where the aformentioned zombie comes out of the door.
 
 ### Main Hall Stairskate
 
@@ -61,7 +57,7 @@ Head through the dining room into the door to the Kenneth Hallway.
 
 ### to West Stairwell
 
-Head through the door next to Kenneth, into the West Stairwell.
+Head through the door next to Kenneth, into the West Stairwell 1. There are 5 total doors in the Kenneth Hallway, which will be defined later.
 
 ### West Stairwell Stairskate
 
@@ -69,9 +65,9 @@ Stairskate up the west stairwell. Open the door to the Arrow Hallway, or "Murder
 
 ### !!HALLWAY HUMPIST!!
 
-This hallway is known colloquially by runners as the "Murder hall". It is the hallway where you pick up the Golden Arrow. There are 
+This hallway is known colloquially by runners as the "Murder hall". It is the hallway where you pick up the Golden Arrow. There are two active zombies in this room, and one zombie that becomes a Crimson Head later. There are 5 doors. The one directly infront is unlocked, which leads to the Armor Trap. We can't go there yet. The next door is locked, and leads to West Stairwell 2. Immediately after this door is one zombie, who we will call Sleepy Santiago. He is mostly inactive whenever we pass around him, so we ignore him for now. Run past him, then pick up the Golden Arrow.
 
-Zombie waiting to ambush off-frame near the mirror. Carci calls him "The Hallway Humpist". Pick up the Golden Arrow, before the corner then bait a lunge. If he doesn't lunge, his lunge is on a delay, so you must do an alternative dodge. Let him walk to you for a couple of steps then run around him using the alt-control movement. Reset if bitten.
+Zombie waiting to ambush off-frame near the mirror. Carci calls him "The Hallway Humpist". Round the corner, aggroing him, then bait a lunge. If he doesn't lunge, his lunge is on a delay, so you must do an alternative dodge. Let him walk to you for a couple of steps, then run around him using the alt-control movement. Reset if bitten.
 
 ### to Main Hall
 
@@ -129,95 +125,93 @@ Entering the Small Library (also called "Small Study"). There's two doors. The d
 
 ### !!LOOSE LARRY!!
 
-Zombie in backwards C-shaped hallway. Dodge carefully. Burn any killed zombies to prevent Crimsons. Light fireplace with lighter, place Wooden Mount above for 2nd Floor Map.
+On the way back out from the Small Study, run past 5% Frankie and the door to the East Stairwell. There is a Wooden Mount. Do not pick up the Wooden Mount. After turning the corner, another zombie, which Carci calls "Loose Larry", whose spawn position is next to the locked double doors in the middle of the C-shaped corridor. If you take the corner loosely, hugging the outside wall, you can trigger the next camera angle at a safe angle of approach which will show where Loose Larry will be. Otherwise, you have to blind dodge him. There will be another set of locked doors to pass, and the door at the end of the hall can be opened by the Sword Key. Use the Sword Key to unlock that door and go into the Main Hall.
 
 ### Cross to 2F Dining
 
-Backtrack to dim hall, dodge zombie, continue off camera. Another zombie past the curve - run past to end of hall and unlock door. When you step into main hall, Barry gives you 6 Acid Rounds.
+Because we don't trigger the Shotgun Trap (Jill Sandwich Cutscene) and we don't go to the East Save Room, Barry is not in the main hall. We do not receive acid rounds. We do not need the acid rounds anyway. Go across the walkway to the 2nd Floor Dining Hall.
 
 ### Unlock Door
 
-Cross balcony to double doors on 2F west side. Back on balcony above Dining Room. Head to door at far end.
+In the 2F Dining Room, unlock the Sword Key Door. Optionally, you can pick up the Dagger in here, which was mentioned before. Enter it to go into West Stairwell 2.
 
 ### Lockpick Door
 
-Narrow hall - ignore metal door for now. Kill two zombies in this area and burn both to prevent Crimsons.
+You've entered West Stairwell 2. Directly next to the door you just came in from, from 2F Dining Room, is a door to the West Terrace. Unlock it with your lockpick and go through it.
 
 ### !!QS Dogs (Reset)!!
 
-Head outside through metal door. Back up to far corner hugging wall near door, face right, blow Dog Whistle. Discard after use. Count to three, hit auto-aim. Kill dogs for Collar. Reset if hit badly.
+You're on the West Terrace. Equip the Handgun (Slot 1). Use the Dog Whistle (Slot 6). 2 dogs will spawn at the far end of the terrace. You will hear dogs panting, then you will hear a chain dragging. After about 1 second after you hear the chain dragging, try to quickshot. If you can not chain quickshots, fire 3 shots then wait for the approaching dog, "Toby", to throw its head up. When it throws its head up, it's using a grab attack. Shoot the dog one more time when it throws its head up, so that the attack is cancelled. If the dog is far enough, it will then tackle Jill, knock her down, and try to rip out her throat. This attack on its own does no damage, but it can kill you if you don't mash buttons. You can counter this attack with a dagger. If you've done 4 shots worth of damage with the handgun to the dog, then the dagger should kill the dog. Otherwise, shoot one more time. Pick up the collar the dog drops before the second dog runs in to grab you or attack you. Open the inventory, unequip the handgun, then exit through the door you came in from. The game asks if you wish to discard the Dog Whistle since it is no longer useful. Say "Yes" to discard the Dog Whistle.
 
 ### !!GRABBY GABRIEL!!
 
-Examine Collar for button, get fake Armor Key. Backtrack to balcony above Dining Room, downstairs. Enter 1F dining room through side door past Kenneth's body.
+When you re-enter the West Stairwell 2, run around the staircase towards the other side of the 2F level of the stairwell. There is a door locked with the Helmet Key, and a door which unlocks into the Murder Hall (Arrow Hall). In front of this door is a zombie called Grabby Gabriel. Grabby Gabriel sometimes has a high lunge timer, so you may not be able to bait a lunge very quickly. When you bait the lunge, run around him, and unlock the door to the Murder Hall.
 
 ### to Key Trap
 
-Through next door and up stairs near ravens. Run past dead body through far door. Hall with suit of armor - no enemies, just death trap.
+The door from the West Stairwell is very close to the door to the door to the Armor Trap Hallway. As you go to the Armor Trap Hallway, the dead body rises and becomes a Crimson Head zombie. Ignore him and go through the door to the Armor Trap Hallway.
 
 ### Armor Key
 
-Find Armor Key on floor. Take and replace with fake Armor Key. Head back to main hall 2F.
+Stairskate up the stairs, and proceed through the hallway until you find the Armor Key on an inset on the floor. Take it. This activates a trap, where you have 10 seconds to either put the key back into the inset or put a suitable replacement in the inset, or the trap kills you. Open the inventory, then examine the Dog Collar we picked up before. Press "confirm" to open it. A "coin" will come out of the collar. Then rotate the coin to find the same emblem on the Armor Key. Examine that, and the coin turns into the shape of a key, becoming the Fake Armor Key. Now replace the Armor Key with the Fake Armor Key. The other door at the end of the hall is locked and has a Helmet Key Emblem, which we can't open until later, so turn around and head back to main hall 2F.
 
 ### !!Murder Hall!!
 
-Head to outside balcony (southeast on map). Grab Handgun magazine from table. Check bench for hidden dagger. Approach Forest's body for cutscene.
+We're back in the Arrow Hallway, and now that the Crimson Head has awakened, it is now called the Murder Hall. It is called Murder Hall by speedrunners because many speedrun attempts end here. It is very easy to take so much damage here that you'll get thrown into Orange Caution status, so Carci employs a possible backup strategy here.
+
+Round the corner towards the door to West Stairwell 2. The Crimson Head will be right behind you. Sleepy Santiago, who we normally ignore, has a chance of being in your way now. If Santiago is directly in your path, don't try to bait a lunge, because the Crimson Head will hit you. Instead, go into the West Stairwell 2 door and go out to reset his position. Upon reloading the room from that door (or if you pass Sleepy Santiago) we can run towards the Hallway Humpist, and dodge him the same way we did before. Now we exit through the door that leads to Dining Room 2F.
 
 ### to Main Hall
 
-Return to main hall.
-
----
-
-## Mansion 2F - Terrace & Richard
+In Dining Room 2F from Murder Hall, Return to main hall.
 
 ### to Terrace
 
-Head to outside balcony through northeast door on 2F map.
+in Main Hall 2F, turn right then stairskate up the small steps. There's a locked door which would lead to the 2F terrace, but we will never unlock that door. There's no reason to. Cut across the walkway next to the door to reach a door which you unlock with the Armor Key. This leads to the Terrace which has Forest's body.
 
 ### Grenade Launcher
 
-Don't walk past body more than necessary or zombie wakes. Grab Grenade Launcher from Forest's body.
+Follow the path all the way to Forest's Body. A cutscene plays here because we didn't trigger Barry's appearance in the Main Hall. In this cutscene, Barry talks to Jill about Forest's demise, then gives her the Grenade Launcher that Forest was holding. Optionally, you may pick up the Dagger on the bench if you don't feel confident with your zombie dodging, but it isn't necessary. Return to the Main Hall through the only door.
 
 ### to 2F E Hall
 
-Head into northeast door on 2F map.
+Go down the short stairs next to the door you came out of, to return to the C-Shaped Hallway.
 
 ### to Richard
 
-Continue forward, enter first door to Jill's right. Cutscene with poisoned Richard.
+In the C-Shaped Hallway, go though to the first door on the right, and unlock it with the Armor Key. This leads to the Richard Corridor, where Richard is.
 
 ### Richard Cutscene
 
-**BAD ENDING**: Don't save Richard. Skip getting serum - let him die. This is required for bad ending.
+Upon entering this room from the C-Shaped Hallway, a cutscene plays where STARS Bravo Team member Richard Aiken has been bitten by a huge snake and is poisoned by snake venom. Skip it, then the game will send you back out into the C-Shaped Corridor.
 
 ### to Main Hall
 
-Return to main hall.
+A map screen will pop up telling you to go to the West Save Room (also known as the "Infirmary"). Mash out of it. You now have 4 minutes to save Richard by picking up some Serum from the Infirmary and bringing it back to Richard. It is faster to save Richard than it is to let him die. Richard must either be saved, or he must die in order to proceed through the door beyond the Richard Corridor, but it is faster to SAVE Richard. Saving Richard does not have any influence on the ending whatsoever, and anywhere you heard that is completely 100% wrong, because I am Carcinogen and I am correct when it comes to Resident Evil REmake. Proceed back through the door to the Main Hall.
 
 ### to 2F Dining Room
 
-Navigate to northwest exit on 2F from main hall.
+Go directly across the walkway to the 2F Dining Room.
 
 ### to W Stairwell 2
 
-Enter west exit to dining room, run north to northwest door leading to staircase and medical supplies room.
+Proceed through the door to West Stairwell 2.
 
 ### !!EMESIS EDDIE!!
 
-Zombie near save room. Dodge or kill.
+Upon enteringthe West Stairwell 2 from 2F Dining Room, a zombie is trying to open the door from the terrace that we fought the dogs and picked up the collar previously. Currently in this room, there's two zombies. There's Grabby Gabriel, who we don't even see this trip, and another zombie who may be on the staircase. Circle around to the staircase. When you approach the staircase, this triggers the zombie to bust in from the West Terrace. Ignore him and proceed down the stairs. The next zombie, Emesis Eddie, may either be on the stairs or at the bottom of the stairs. Ideally, we want him to be ON the stairs, because if he's on the stairs, we can stairskate past him, since he will try to puke on us and miss. Zombies puke when they're on the stairs, and while they're puking, they are easy to get around. If Emesis Eddie is at the bottom of the stairs instead, slow down, check his position, and dodge around him to get to the West Save Room (Infirmary). He may be at an awkward angle at the bottom of the stairs, so he may grab us and bite us. Proceed through the door to the West Save Room.
 
 ### Deposit HG, Knife, Sword Key
 
-Medical Supply save room. Item box: deposit Handgun, Knife, Sword Key. Grab lighter if needed.
+Medical Supply save room. Take the Serum. Deposit the Handgun, Knife, and Sword Key into the item box. Leave back into the West Stairwell.
 
 ### Unlock Door
 
-Exit save room, head up stairs. Unlock first door to right with Armor Key.
+We're on the first floor of the West Stairwell. Round the corner, then proceed to the end of the corridor (do not go back upstairs). A zombie is in our way, he is very tricky to dodge. Once you get past him there are two doors. One door can be opened with a lockpick. The door next to it can be opened with the Armor Key. Unlock it with the Armor Key, to proceed to the F-Shaped Hallway.
 
 ### to Plant Room
 
-Room with deer head. Go left through door. Enter door past where you found Broken Shotgun. Grab battery pack from table. Run past windows to door at end.
+Grab battery pack from table. Run past windows to door at end.
 
 ### Death Mask 1
 
@@ -237,11 +231,11 @@ Head back to 2F east hall.
 
 ### to Richard
 
-Return to Richard's area. **BAD ENDING**: He's dying/dead since you didn't give serum.
+
 
 ### Richard Serum Cutscene
 
-**BAD ENDING**: Skip this entirely - no serum delivery. Richard dies.
+
 
 ### !!Sleeper!!
 
