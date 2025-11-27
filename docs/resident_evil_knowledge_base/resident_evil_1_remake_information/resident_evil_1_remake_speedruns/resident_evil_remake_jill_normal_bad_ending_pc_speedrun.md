@@ -13,6 +13,8 @@ This guide covers the Jill Normal Mode Bad Ending (any%) route for Resident Evil
 - Don't rescue Chris from lab cell (avoid picking up MO Discs)
 - More aggressive/optimized routing with a very direct route toward the end.
 - No usage of Rocket Launcher or Samurai Edge.
+- Saving Richard does NOT trigger the bad ending. It will trigger other events, but it does NOT cause the bad ending.
+- Bad Ending is not a requirement for any%. It is merely the fastest ending to get.
 
 **Characteristics of speedrunning Resident Evil HD Remaster on PC**
 - In the game's settings, your framerate is set to "variable", and the Vsync option is set to "off". This makes the game run at a maximum of 120 Frames Per Second ("FPS"). 120FPS causes the game to run at its maximum speed.
@@ -227,7 +229,7 @@ From the Kenneth Hallway, you are now in the Dining Room. Grab the Wooden Emblem
 
 ### to 2F E Hall
 
-From the Dining Room, you are now in the Main Hall. Stairskate up the stairs to get to the 2F C-Shaped Hallway. Go through the door.
+From the Dining Room, you are now in the Main Hall. Stairskate up the stairs to get to the 2F C-Shaped Hallway. Go through the door to the C-Shaped Hallway.
 
 ### to Richard
 
@@ -235,84 +237,78 @@ From the Main Hall, you are now in the 2F C-Shaped Hallway. Go through the door 
 
 
 ### Richard Serum Cutscene
-From the 2F C-Shaped Hallway, you are now in the Richard Hallway. As soon as you run forward, a cutscene plays where you give the serum to Richard. Skip the cutscene. As soon as the cutscene is skipped, turn around immediately and enter the door on the other side of the hallway, which is now open.
+From the 2F C-Shaped Hallway, you are now in the Richard Hallway. As soon as you run forward, a cutscene plays where you give the serum to Richard. Skip the cutscene. As soon as the cutscene is skipped, turn around immediately and enter the door on the other side of the hallway, which is now open. You will be in the T-Shaped Hallway.
 
 
 ### !!Sleeper!!
 
-Through room past Richard. Zombie in corridor where you turn.
+In the T-Shaped Hallway, there's one zombie and two doors. One door directly in front leads to the Yawn Boss Room, but it's locked with a Shield Emblem. Go towards the other door, the zombie is in your way. Bait out a lunge and dodge him. On rare occasions, you can simply run past him. Go through the door into the Tea Room.
 
 ### !!Music Notes Lunge!!
 
-In dark hall room, light candles on table. Check room for ammo. Push right shelf toward camera. Zombie appears on angle change - run around table and shoot. Grab Musical Score from alcove.
+In the Tea Room room, there's an unlit candle you have to light with the Lighter. If you followed the route correctly, the Lighter will be in Slot 1. Open inventory, use Lighter. The Zombie from the previous room will bust open the door. On the right side of the camera angle, there's a pushable shelf. Push it twice. While you are pushing the shelf, pay attention to where the zombie from the previous room is shambling, so you know which direction to exit. Go into the alcove. Another zombie appears on the camera angle change. Bait a lunge, run behind him, pick up the Musical Score from the shelf. If the zombie spins around, press down on the analog stick and use a defense item. Leave the room through the only door, avoiding the zombie that came in.
 
 ### to Richard
 
-Leave room, back through Richard's room.
+Back in the T-Shaped Hallway, go through the door to the Richard Hallway.
 
 ### to 2F E Hall
 
-Go to corridor before Richard's room, find green double doors.
+You are now in the Richard Hallway. Go to the C-Shaped Hallway.
 
 ### to Main Hall
 
-In knight statue room, push in order: upper right, lower left, lower right. Press table button, grab Jewelry Box. Press action on halved-heart sides for Death Mask.
-
----
-
-## Mansion 1F - Piano & Emblem
+You are now in the C-Shaped Hallway. From the Richard Hallway door, go back through the door to the 2F Main Hall.
 
 ### to Dining 1F
 
-Go back to hall, unlock door at bottom of stairs with Sword Key and discard it (nothing valuable down there).
+You are now on the second floor of the main hall. Stairskate down the stairs to 1F. Go back into the Dining Room through the double-doors on the west side.
 
 ### to Kenneth Hall
 
-Go back up and through first door on left.
+You are now in the 1F Dining Room via 1F Main Hall. Run to the Kenneth Hallway through the door.
 
 ### !!Dodge with Stick Only!!
 
-Dodge zombie using only movement - no shooting.
+You are now in the Kenneth Hallway from the Dining Room. Go to the end of the hall to the door locked by an Armor Emblem. There is a zombie in the way. Run up to him then tap back until he lunges. Then run past him, unlock the Armor Key door, and go into the Piano Room.
 
 ### Gold Emblem
 
-Piano room - push shelf to find Moonlight Sonata cover. Combine with Musical Score, play on piano. Wall opens to secret passage. Grab Gold Emblem (and Trevor's Diary), replace with Wooden Emblem.
+You are now in the Piano Room. Push the shelf behind the piano (once) to find Moonlight Sonata cover. Run to the front of the piano. Combine the Moonlight Sonata Cover (Slot 7) with the Sheet Music (Slot 6), then Use, to play the piano. Skip the cutscene. The wall opens to a secret passage. Grab Gold Emblem, then the door will close behind you. Use the Wooden Emblem to re-open the door. Leave through the door you came in, back to the Kenneth Hallway.
 
 ### !!MAY BACK GRAB!!
 
-Zombie may grab from behind when returning.
+In the Kenneth Hallway, run to the Dining Room. There's a 3% chance the zombie may grab you from behind when returning.
 
 ### Shield Key
 
-Return to dining room, put Gold Emblem above fireplace. Go to grandfather clock, move large hand twice (either direction) to read 6 o'clock. Get Shield Key.
-
----
-
-## Mansion 2F - Yawn & Death Masks
+You are now in the Dining Room from the Kenneth Hallway. Put Gold Emblem above fireplace. Go to grandfather clock and solve the puzzle. Move the Large gear twice to the left. This moves the clock and reveals the Shield Key. Get the Shield Key. Return to the Main Hall.
 
 ### to 2F E Hall
 
-Head to 2F east hall. Go to room past Richard (grab green herbs if needed).
+You are now in the 1F Main Hall from the Dining Room. Stairskate up the stairs from 1F to 2F and go through the door to the C-Shaped Hallway on the East side.
 
 ### to Richard
 
-**BAD ENDING**: Richard is dead/dying - no Assault Shotgun from him. Watch out for Crimson.
+You are now in the C-Shaped Hallway from 2F East Hall. Go through the door to the Richard Hallway.
 
 ### to T-Hall
 
-Walk up steps.
+You are now in the Richard Hallway from the C-Shaped Hallway. Go through the door to the T-Shaped Hallway.
 
 ### to Yawn 1
 
-Unlock door with Shield Key, discard key. Walk toward back of room.
+You are now in the T-Shaped Hallway. Go up the small stairs, then unlock the Shield Key door. Discard the key. Proceed through the door to the Yawn Boss Room.
 
 ### Death Mask 2 !!YAWN 1!!
 
-Yawn attacks! **BAD ENDING**: Richard doesn't come to save you - you're on your own. Keep avoiding snake while grabbing Death Mask and Shotgun ammo. Yawn goes down but isn't dead.
+You are now in the Yawn Boss Room. Run towards the Mask on the other side of the room. Yawn, the Giant Snake appears. Skip an additional cutscene where Richard enters the room. When you regain control of Jill, hold Up on the D-Pad and nudge left to run past Yawn's head. Pick up the 2nd Death Mask (Death Mask 2). Check Yawn's position. If Richard stuns Yawn, you can run past Yawn's left side to get to the door. Leave the room through the door.
+
+**IF YOU GET BIT, YOUR PERSONAL BEST RUN IS OVER BECAUSE YOU ARE IN A SEMI-PERMANENT SPECIAL YAWN POISON STATUS THAT WILL FORCE YOU TO GO TO THE 1F WEST SAVE ROOM (INFIRMARY) TO GET SERUM. THAT COSTS 2 MINUTES. IN A MARATHON RUN THIS DOES NOT MATTER, BUT IT IS MAJOR ENOUGH TO RUIN ANY PB**
 
 ### NOOOOOOOOO
 
-If bitten - you're poisoned. Return to save room for serum if needed.
+You are now in the T-Shaped Hallway from the Yawn Boss Room. Richard screams as Yawn eats him alive.
 
 ### !!ZOMBIE HERE NOW!!
 
