@@ -316,7 +316,7 @@ You are in the Richard Hallway. Now that Richard is no longer in this room (or i
 
 ### !!QUICK ROTATION!!
 
-You are now in the C-Shaped Hallway on 2F. Rush to the double-doors in the center of the hallway. On your way over, Loose Larry may get in our way. We have to blind dodge him again, because we will have no idea where he is, based on the camera angles. Just run the straightest line you can with tank controls and hopefully he won't grab you. If he does, then either take the bite or use a defense item. There's nothing you can do about this if it happens besides use a defense item. Go to the double doors, unlock them with the Armor key, then enter the Armor Puzzle Room.
+You are now in the C-Shaped Hallway on 2F. Rush to the double-doors in the center of the hallway. On your way over, Loose Larry may get in our way. We have to blind dodge him again, because we will have no idea where he is, based on the camera angles. Just run the straightest line you can with tank controls and hopefully he won't grab you. If he does, then either take the bite or use a defense item. There's nothing you can do about this if it happens besides use a defense item. Go to the double doors, unlock them with the Armor key (mash text), then enter the Armor Puzzle Room.
 
 ### Death Mask 3
 
@@ -324,43 +324,49 @@ You are now in the Armor Puzzle Room. Push the Top-Right,Bottom-Left, and Bottom
 
 ### to 2F E Stairs
 
-You are now in the C-Shaped Hallway. In this run, this is the last trip through this hallway.
+You are now in the C-Shaped Hallway. In this run, this is the last trip through this hallway. Run around the corner, enter the door to the 2F East Stairwell.
 
 ### !!1% BACKGRAB!!
 
-Very low chance of back grab.
+You are now in the 2F East Stairwell. Very low chance of back grab. Run Camera-Right around the zombie, then Stairskate down the stairs. Open the door and go into the 1F East Save Room. You can usually run straight past the zombie next to the door.
 
 ### Flame Rounds
 
-Grab flame rounds from Barry's items in save room.
+You are now in the 1F East Save Room. Barry left some items. Pick up ONLY the Flame Rounds. Exit out the door you came in, back into the 1F East Stairwell.
 
 ### !!TIGHT DODGE!!
 
-Tight zombie dodge required.
+You are back in the 1F East Stairwell. Use the left analog stick to run past this zombie and out the door into the Spencer Hallway. Mash past the text mentioning that the doorknob is about to break, then run through the door to the Spencer Hallway.
 
 ### to Crow Puzzle
 
-U-shaped hallway with paintings. Crows here won't hurt you if you do puzzle right.
+You are now in the Spencer Hallway. Hold Down and Right on the left analog stick to run to the Crow Puzzle Door. Mash the X Button to skip the dialog and unlock it with the Armor Key. Go through the door to the Crow Puzzle Room.
 
 ### Death Mask 4
 
-Change first painting to orange. Run to other side of U. Flick lights on first two paintings (purple and green). At end, woman (Lisa Trevor) wearing orange/purple/green. Press switch. Wall raises - go outside, grab last Death Mask, unlock gate.
+Change the first painting to orange. Run to other side of the wall. Flick the switch furthest from the door to purple, and the switch in the middle to Green. Run to the final picture then mash X at the picture of Lisa to press the switch. The wall will slide upward. Behind the wall, grab the final Death Mask. Now use the stick to open the door to the Graveyard. Mash past the scrolling text to unlock the door with the lockpick. Go through the door to the Graveyard.
 
 ### !!ELDER CRIMSON!!
 
-Watch for Crimson Head in area.
+You are now in the Mansion's Graveyard again, coming in through a door that was previously unlocked from the other side. Fat Fuck Fernando and Fuckface Freddy have despawned. Run to the stairs to the crypt, and stairskate down. There are 4 altars where you place 4 masks. Move to the first altar, open your inventory, and place the Death Mask without eyes (which is in slot 4). Next, move to the second altar. Open your inventory, and examine the Jewelry Box (which is in Slot 5). Press the switch in front, hold D-Pad down to rotate it downward, then press the button on the back. The Jewelry box will open to reveal a Death Mask without eyes, a nose, or a mouth. Press O once to exit the examination menu, press "up", then use the Death Mask without eyes, a nose, or a mouth. Next, move to the third altar, and use the Death Mask without a nose (which is in slot 3). Finally, move to the 4th altar. Move cursor to slot 4, combine the Flame Rounds with the Grenade Launcher. Equip the Grenade Launcher (which is now in slot 3), then press down to highlight the final Death Mask (which is in Slot 5) then use it. The Casket containing Elder Crimson Head will fall. Hold Down on the left analog stick to run toward the open casket. 
+
+A cutscene will play where the gate will close and Elder Crimson Head will awaken. During this cutscene, hold R1, Up, and X to buffer an arcing Flame Round shot. The first flame round will hit him in the head, siphoning most of his HP. Pump cancel the shot by releasing R1 and pressing Up on the D-pad, then fire at center height. The second grenade will hit him in the foot, siphoning the rest of his HP. Pump cancel the second shot, then fire a third shot. Elder Crimson Head will die. 
+
+DO NOT USE THE LEFT ANALOG STICK IN THIS FIGHT. IF YOU DO, AUTO-AIM WILL NOT WORK CORRECTLY AND YOUR SETUP FOR ALL OF THE GRENADE SHOTS WILL FAIL.
+
+As soon as the final shot hits Elder Crimson Head, open your inventory and unequip your grenade launcher. Run to the open casket, press the switch. Pick up the Stone and Metal Object. Stairskate back up the stairs, and back through the door you came in through, to the Crow Puzzle Room.
 
 ### to Spencer Hall
 
-Head down to grave area with coffin. Fastest way through gate next to Death Mask. Put all 4 Masks on wall (match them up). Shoot the Crimson with Shotgun (~5 rounds). Grab Stone and Metal Object and Shotgun shells.
+You are now in the Crow Puzzle Room, from the Mansion Graveyard. Run back through the hall and out the other door into the Spencer Hallway.
 
 ### !!SLEEPER!!
 
-Sleeping zombie in Spencer hallway.
+You are now in the Spencer Hallway. Use the D-Pad to run forward and bait out a lunge from the zombie I will call Sleepy Sampson. He should miss, and you can run around him. If he doesn't lunge, use the left analog stick to lure him out of the narrow hallway he's camping in, then run around him. Run through the door to the Mansion Exit Hall.
 
 ### Insert Object
 
-Head to hall outside Crow Gallery. Go straight through metal door to outside. Place Stone and Metal Object. Dog jumps out - easy to avoid.
+You are now in the Mansion Exit Hall. Run to the end and use the Stone and Metal Object, next to the locked door. The door will unlock, and you can leave the mansion.
 
 ---
 
@@ -368,55 +374,59 @@ Head to hall outside Crow Gallery. Go straight through metal door to outside. Pl
 
 ### to Woods
 
-Tool shed has two doors. Take the one down small steps. Grab F.A. Spray and battery pack by steps. Watch cutscene.
+You are now in the toolshed. Tool shed has three total doors: one from Mansion Exit, one to the Courtyard, and one to the Woods outside of the mansion. Go down the small steps to take the door to the woods outside of the mansion. Optionally, grab the FAS (First Aid Spray) and Stun Gun Battery Pack by the steps.
 
 ### Cocks
 
-Head down path. Make red weathervane point West.
+You are now in the forest area with the weathervane puzzle. Head down path to the Red weathervane. Make the Red weathervane point West. Hold left on analog stick after flipping the Red Weathervane to run into the cutscene. Skip it, then use D-Pad to stairskate to the Blue weathervane. Make the Blue weathervane point North. Stairskate down the stairs and go through the gate to the Magnum Graveyard
 
 ### Crows
 
-Blue weathervane further down points North. Go through gate. Avoid crows.
+You are now in the Magnum Graveyard. Run straight forward through the gate into the Winding Path.
 
 ### Winding Path
 
-Graveyard with crows has two graves. Put Wind Crest on right grave. Three more crests appear - examine all backs. Put all on left grave to get Magnum!
+You are now in the Winding Path. Go through the winding path, stairskate up the stairs, and go through the door into Lisa's Cabin.
 
 ### Crank, Box !!LISA!!
 
-Continue path to cabin (Trevor's Shack). Inside: typewriter, item box, Square Crank (off ledge by item box), Courtyard map upstairs. Dump Magnum, keep weapon and Square Crank. Lisa attacks and knocks you out - she's invincible, run past and escape!
+You are now in Lisa's Cabin. Stairskate up 3 stairs into the save area. Go down the ledge and pick up the Square Crank. Go back up the ledge and open the Item Box. X,X,Right,X,R1,X,O,O to exchange the Armor Key for the FAS and put away the Lighter. Go past the typewriter to play a cutscene where you get knocked out.
+
+You wake up, Lisa walks toward you. Hold Up on the D-Pad. When you gain control of Jill, mash the Square button until Lisa starts a forward swing. When Lisa commits to this animation, hold Square and maneuver around Lisa. Go out the door back to the Winding Path.
+
+Note: If you simply hold Square before you gain control of Jill, there is an extremely high chance she'll do a backswing instead, intercepting you and hitting you. Do not allow yourself to just hold the button when you regain control of Jill. Rapidly press the Square button instead to bait out the forward swing.
 
 ### !!ZOMBIE!!
 
-Outside cabin, grab green herbs. Go back to tool shed - zombie by tree in walkway, stands still until fired at.
+You are now back into the Winding Path. Stairskate down the stairs and run past a newly spawned zombie. Exit to the Magnum Graveyard.
 
 ### Nothing
 
-Empty transition.
+You are now in the Magnum Graveyard. Run straight forward into the gate to the Weathervane Puzzle path.
 
 ### Nothing
 
-Empty transition.
+You are now back in the Weathervane Puzzle Path. Stairskate up the stairs and go through the door to go back to the Shed.
 
 ### to Courtyard
 
-Through other door in shed. Quick cutscene. 3 dogs attack - kill them. Blue and green herbs here.
+You are back in the Shed. Stairskate up the stairs, go out the double doors to go to the 3 Dogs Area of the Courtyard.
 
 ### !!3 DOGS!!
 
-Kill the three dogs.
+You are now in what I like to call the 3 Dogs Area. There is a disabled elevator and a double-gate next to a couple of stairs. There are 3 Cerberus Zombie Dogs in here. Run past them to the gate to the Sluice Gate.
 
 ### Turn Crank
 
-Up small stairs through gate. Use Square Crank to lower water. Down ladder, run across, up other ladder.
+You are now in the Sluice Gate. Run to the Square Crank Socket. Open inventory, then use the Crank. This will drain the water, allowing you to cross to the other end. Drop down the ladder, run across the new path, then climb up the other side of the ladder. Some snakes will drop down on your way through to the elevator. Go down the Elevator to the Battery Fountain Area.
 
 ### Crows are Harmless
 
-Take elevator down. Garden area with crows - just run, grab Green Herb. Through gate on other side of waterfall.
+You are now in the Battery Fountain Area. Don't worry about the crows, they cannot harm you as long as you are moving in a straight line to your destination. Run to the double-gate, which leads to the Guardhouse Path.
 
 ### to Guardhouse
 
-Red herb near. Watch for snakes - if bitten, poisoned. Through door at end. Mansion complete!
+You are now in the Guardhouse Path. Ignore the dropping snakes and go through the door to the Guardhouse.
 
 ---
 
